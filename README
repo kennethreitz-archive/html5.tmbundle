@@ -1,8 +1,13 @@
-Hi This is HTML 5 bundle for textmate. 
+Hello there, 
+
+This is an HTML5 bundle for TextMate. You should use it like you would use the standard HTML bundle, except append a '5' after each command before hitting tab. 
+
+	Example: doctype5 + TAB
 
 If you have any questions or comments feel free to contact me.
 
-design@jpmcgarrity.com
+This is build on the work of:
+	design@jpmcgarrity.com
 
-Thanks and enjoy,
-J.P.
+Enjoy,
+Kenneth Reitz of KennethReitz.com
